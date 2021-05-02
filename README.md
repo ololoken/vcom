@@ -1,0 +1,2 @@
+# vcom
+wince virtual COM
